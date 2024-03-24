@@ -6,7 +6,7 @@ This page will allow you to Add employee to a payroll and you can muiltiple unti
 
 ## Link to page
 
-[Live site here!](https://giovanni-ramirez.github.io/01-challenge/#social-media-marketing)
+[Live site here!](https://giovanni-ramirez.github.io/Employee-Payroll-Tracker/)
 
 ## Features
 - Add employees with first and last name with their salary.
